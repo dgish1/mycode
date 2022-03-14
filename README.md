@@ -20,4 +20,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* David Gish - *Initial work* - [YourWebsite](https://example.com/)
+* David - *Initial work* - [YourWebsite](https://example.com/)
